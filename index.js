@@ -24,5 +24,5 @@ while (true) {
         console.log(2);
     } else {
         console.log(3);
-    }
+    } 
 }
